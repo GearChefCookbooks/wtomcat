@@ -2,5 +2,5 @@ site :opscode
 
 metadata
 
-cookbook 'tomcat', github: 'GearChefCookbooks/tomcat.git'
+cookbook 'tomcat', github: 'GearChefCookbooks/tomcat'
 
