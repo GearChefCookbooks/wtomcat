@@ -10,3 +10,4 @@ depends 'tomcat'
 depends 'java'
 depends 'apt', '>= 1.8.2'
 
+depends 'iptables', '= 1.1.0'
